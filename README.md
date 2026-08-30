@@ -28,7 +28,12 @@
 </div>
 
 ---
+<div align="center">
 
+<img src="./clearSight-overview.png" width="100%"/>
+
+---
+</div>
 # 🌎 The Problem
 
 Satellite imagery is one of humanity's most powerful tools for understanding Earth.
